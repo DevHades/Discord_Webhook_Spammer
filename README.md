@@ -1,5 +1,5 @@
 # Warning
-I do *not* take responsibility for you may do with this tool. This is at your own risk.
+I do *not* take responsibility for you may do with this tool. This is at your own risk. This tool was created for educational purposes.
 
 # Discord Webhook Spammer
 
