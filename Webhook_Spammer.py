@@ -27,7 +27,7 @@ class Discord_Webhook_Spammer():
 		Contents = {
     		"content": Spamed_Text,
     		"username": Bot_Name,
-  			"avatar_url": Bot_Image,
+  		"avatar_url": Bot_Image
 		}
 		while True:
 			Discord_Webhook_Spammer.Spam(Webhook_Url, Contents, Spamed_Text)
